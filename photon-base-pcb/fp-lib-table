@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name goldentee_topper_base)(type KiCad)(uri "$(KIPRJMOD)/goldentee_topper_base.pretty")(options "")(descr ""))
+)
